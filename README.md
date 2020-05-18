@@ -1,7 +1,5 @@
 ## Portfolio Page
 
-**Portfolio Page contains:**
-
 **About Page:**
 
 - Briefly mention about my work experience
